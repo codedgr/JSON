@@ -1,4 +1,5 @@
 # JSON Helper Library
+This library throws an exception every time a json encode/decode action fails.
 
 ## Install
 Using Composer
