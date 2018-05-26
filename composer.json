@@ -4,6 +4,7 @@
   "keywords": [
     "json"
   ],
+  "license": "MIT",
   "type": "library",
   "homepage": "https://github.com/codedgr/JSON",
   "authors": [

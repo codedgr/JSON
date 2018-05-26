@@ -3,7 +3,7 @@
 ## Install
 Using Composer
 ```
-"require" {
+"require": {
     "codedgr/json": "~1.0"
 }
 ```
